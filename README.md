@@ -1,4 +1,5 @@
-![Визуализация0](https://user-images.githubusercontent.com/96602226/231859467-0e871058-75e1-456e-9cff-302de433db04.png)
+![Визуализация0](https://user-images.githubusercontent.com/96602226/231869811-1e2ff157-b957-459d-8627-6d684334fd04.png)
+
 
 ## Probation project
 Проект подготовки и визуализации данных
@@ -13,4 +14,5 @@
 Google Drive, обработанные данные [выгружены в облако](https://docs.google.com/spreadsheets/d/165sp-lWd1L4qWxggw25DJo_njOCvzdUjAd414NSE8co/edit?usp=sharing) для обеспечения доступа пользователей.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;II. этап. Выполнена визуализация диаграмм рассеяния сгруппированных по 'area' и 'cluster' данных, в соответствии с требованиями задания 
 с использованием модуля gridspec, выполнено сохранение графиков c параметрами в соответствии с условиями задания. </p>
-![imgonline-com-ua-Collage-Hs08iCFTF76](https://user-images.githubusercontent.com/96602226/231865171-42caec6d-a28a-4b88-abc0-d3c2a011bd2f.jpg)
+
+![Визуализация_комбо](https://user-images.githubusercontent.com/96602226/231873225-ee7c7048-888a-41c2-aaa7-b4b4ae71bfd2.jpg)
